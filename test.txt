@@ -1,0 +1,96 @@
+        Level: 3
+		*** LogFrame Start ***
+		LijstUpDown: 1
+		Procedure: UpDownProc
+		Stimulus: 19bR.BMP
+		Tilt: R
+		ErrorCount: 0
+		List1: 1
+		StimulusContent: Neutral
+		CorrectResponse: Push
+		Running: LijstUpDown
+		RT: 2797
+		ACC: 1
+		LijstUpDown.Cycle: 1
+		LijstUpDown.Sample: 1
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		LijstUpDown: 1
+		Procedure: UpDownProc
+		Stimulus: 5aL.BMP
+		Tilt: L
+		ErrorCount: 0
+		List1: 2
+		StimulusContent: Smoking
+		CorrectResponse: Pull
+		Running: LijstUpDown
+		RT: 991
+		ACC: 1
+		LijstUpDown.Cycle: 1
+		LijstUpDown.Sample: 2
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		LijstUpDown: 1
+		Procedure: UpDownProc
+		Stimulus: 10bR.BMP
+		Tilt: R
+		ErrorCount: 0
+		List1: 3
+		StimulusContent: Neutral
+		CorrectResponse: Push
+		Running: LijstUpDown
+		RT: 991
+		ACC: 1
+		LijstUpDown.Cycle: 1
+		LijstUpDown.Sample: 3
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		LijstUpDown: 1
+		Procedure: UpDownProc
+		Stimulus: 4bL.BMP
+		Tilt: L
+		ErrorCount: 0
+		List1: 4
+		StimulusContent: Neutral
+		CorrectResponse: Pull
+		Running: LijstUpDown
+		RT: 1524
+		ACC: 1
+		LijstUpDown.Cycle: 1
+		LijstUpDown.Sample: 4
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		LijstUpDown: 1
+		Procedure: UpDownProc
+		Stimulus: 3bL.BMP
+		Tilt: L
+		ErrorCount: 0
+		List1: 5
+		StimulusContent: Neutral
+		CorrectResponse: Pull
+		Running: LijstUpDown
+		RT: 825
+		ACC: 1
+		LijstUpDown.Cycle: 1
+		LijstUpDown.Sample: 5
+		*** LogFrame End ***
+		Level: 3
+		*** LogFrame Start ***
+		LijstUpDown: 1
+		Procedure: UpDownProc
+		Stimulus: 14aR.BMP
+		Tilt: R
+		ErrorCount: 0
+		List1: 6
+		StimulusContent: Smoking
+		CorrectResponse: Push
+		Running: LijstUpDown
+		RT: 824
+		ACC: 1
+		LijstUpDown.Cycle: 1
+		LijstUpDown.Sample: 6
+		*** LogFrame End ***

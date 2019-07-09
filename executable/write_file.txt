@@ -1,0 +1,940 @@
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 892
+
+ 
+ErrorCount: 1
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 828
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 925
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 992
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 1290
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 1326
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 1224
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 1125
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 959
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 1690
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 1190
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 1324
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 1824
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 1025
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 4154
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 1057
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 793
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 825
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 1324
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 756
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 893
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 3783
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 926
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 824
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 825
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 857
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 791
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 1324
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 1192
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 892
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 925
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 760
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 1459
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 893
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 825
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 1071
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 2557
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 1624
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 1589
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 1192
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 1757
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 925
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 926
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 857
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 926
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 924
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 1059
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 760
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 843
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 776
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 691
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 1126
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 1059
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 991
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 824
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 742
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 1124
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 942
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 1058
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 892
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 724
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 926
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 960
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 1224
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 858
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 859
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 926
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 859
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 793
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 2223
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 860
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 1058
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 793
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 876
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 1342
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 1626
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 893
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 1192
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 827
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 1192
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 858
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 957
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 1292
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 840
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 659
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 1457
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 959
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 660
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 893
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 992
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 859
+
+ 
+ErrorCount: 1
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 861
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 977
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 976
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 758
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 926
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 758
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 860
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 692
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 527
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 893
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 1692
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 1009
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 625
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 925
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 1659
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 1093
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 707
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 841
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 1226
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 994
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 1159
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 924
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 724
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 1027
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 2075
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 893
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 793
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 693
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 989
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 957
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 727
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 1359
+
+ 
+ErrorCount: 1
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 960
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 926
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 1759
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 793
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 1523
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 2092
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 828
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 808
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 909
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 1326
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 893
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 926
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 860
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 1026
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 860
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 3687
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 893
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 726
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 1243
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 837
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 825
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 925
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 2290
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 1058
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 859
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 1659
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 560
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 1142
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Push
+RT: 1542
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 893
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Pull
+RT: 693
+
+ 
+ErrorCount: 0
+StimulusContent: Neutral
+CorrectResponse: Push
+RT: 759
+
+ 
+ErrorCount: 0
+StimulusContent: Smoking
+CorrectResponse: Pull
+RT: 593
+
+ 
+
+ 
+
+ 

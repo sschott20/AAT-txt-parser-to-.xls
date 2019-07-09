@@ -1,0 +1,2830 @@
+VersionPersist: 1
+LevelName: Session
+LevelName: Block
+LevelName: Trial
+LevelName: SubTrial
+LevelName: LogLevel5
+LevelName: LogLevel6
+LevelName: LogLevel7
+LevelName: LogLevel8
+LevelName: LogLevel9
+LevelName: LogLevel10
+Experiment: AAT smoking v 1.3
+SessionDate: 07-03-2019
+SessionTime: 14:59:30
+SessionStartDateTimeUtc: 7/3/2019 6:59:30 PM
+Subject: 02
+Session: 1
+Version: 1
+DataFile.Basename: AAT smoking v 1.3-02-1
+RandomSeed: -2011501102
+Group: 1
+Display.RefreshRate: 60.059
+*** Header End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 1
+Stimulus: PracL1.bmp
+Tilt: L
+ErrorCount: 0
+CorrectResponse: Pull
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 1
+Running: OefenLijst
+RT: 2061
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 2
+Stimulus: PracR1.bmp
+Tilt: R
+ErrorCount: 0
+CorrectResponse: Push
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 2
+Running: OefenLijst
+RT: 1424
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 3
+Stimulus: PracL1.bmp
+Tilt: L
+ErrorCount: 0
+CorrectResponse: Pull
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 3
+Running: OefenLijst
+RT: 1692
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 4
+Stimulus: PracR1.bmp
+Tilt: R
+ErrorCount: 0
+CorrectResponse: Push
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 4
+Running: OefenLijst
+RT: 1026
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 5
+Stimulus: PracR1.bmp
+Tilt: R
+ErrorCount: 0
+CorrectResponse: Push
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 5
+Running: OefenLijst
+RT: 1494
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 6
+Stimulus: PracL1.bmp
+Tilt: L
+ErrorCount: 0
+CorrectResponse: Pull
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 6
+Running: OefenLijst
+RT: 726
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 7
+Stimulus: PracL1.bmp
+Tilt: L
+ErrorCount: 0
+CorrectResponse: Pull
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 7
+Running: OefenLijst
+RT: 1026
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 8
+Stimulus: PracR1.bmp
+Tilt: R
+ErrorCount: 0
+CorrectResponse: Push
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 8
+Running: OefenLijst
+RT: 892
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 9
+Stimulus: Prac1R.bmp
+Tilt: R
+ErrorCount: 0
+CorrectResponse: Push
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 9
+Running: OefenLijst
+RT: 2492
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 10
+Stimulus: Prac1R.bmp
+Tilt: R
+ErrorCount: 1
+CorrectResponse: Push
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 10
+Running: OefenLijst
+RT: 1093
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 11
+Stimulus: Prac1L.bmp
+Tilt: L
+ErrorCount: 0
+CorrectResponse: Pull
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 11
+Running: OefenLijst
+RT: 2292
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 12
+Stimulus: Prac1R.bmp
+Tilt: R
+ErrorCount: 1
+CorrectResponse: Push
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 12
+Running: OefenLijst
+RT: 1860
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 13
+Stimulus: Prac1R.bmp
+Tilt: R
+ErrorCount: 0
+CorrectResponse: Push
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 13
+Running: OefenLijst
+RT: 860
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 14
+Stimulus: Prac1L.bmp
+Tilt: L
+ErrorCount: 0
+CorrectResponse: Pull
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 14
+Running: OefenLijst
+RT: 993
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 15
+Stimulus: Prac1R.bmp
+Tilt: R
+ErrorCount: 0
+CorrectResponse: Push
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 15
+Running: OefenLijst
+RT: 1159
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 16
+Stimulus: Prac1L.bmp
+Tilt: L
+ErrorCount: 0
+CorrectResponse: Pull
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 16
+Running: OefenLijst
+RT: 1062
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 17
+Stimulus: Prac1L.bmp
+Tilt: L
+ErrorCount: 0
+CorrectResponse: Pull
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 17
+Running: OefenLijst
+RT: 976
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 18
+Stimulus: Prac1L.bmp
+Tilt: L
+ErrorCount: 0
+CorrectResponse: Pull
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 18
+Running: OefenLijst
+RT: 941
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 19
+Stimulus: Prac1R.bmp
+Tilt: R
+ErrorCount: 0
+CorrectResponse: Push
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 19
+Running: OefenLijst
+RT: 926
+ACC: 1
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: UpDownProc
+OefenLijst: 20
+Stimulus: Prac1L.bmp
+Tilt: L
+ErrorCount: 0
+CorrectResponse: Pull
+OefenLijst.Cycle: 1
+OefenLijst.Sample: 20
+Running: OefenLijst
+RT: 1560
+ACC: 1
+*** LogFrame End ***
+
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 9aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 7
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 892
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 7
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 15bL.BMP
+Tilt: L
+ErrorCount: 1
+List1: 8
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 828
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 8
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 13aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 9
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 925
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 9
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 15bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 10
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 992
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 10
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 10aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 11
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1290
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 11
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 3bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 12
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1326
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 12
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 1bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 13
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 1224
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 13
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 4aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 14
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 1125
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 14
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 12bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 15
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 959
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 15
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 5bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 16
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1690
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 16
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 16aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 17
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 1190
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 17
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 19aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 18
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 1324
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 18
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 15aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 19
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1824
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 19
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 20bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 20
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 1025
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 20
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 2bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 21
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 4154
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 21
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 6aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 22
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1057
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 22
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 9bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 23
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 793
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 23
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 10bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 24
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 825
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 24
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 2aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 25
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1324
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 25
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 16bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 26
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 756
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 26
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 12aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 27
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 893
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 27
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 5bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 28
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 3783
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 28
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 10bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 29
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 926
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 29
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 6aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 30
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 824
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 30
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 8aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 31
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 825
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 31
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 7aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 32
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 857
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 32
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 1bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 33
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 791
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 33
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 17bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 34
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1324
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 34
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 20aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 35
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 1192
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 35
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 8bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 36
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 892
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 36
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 17aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 37
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 925
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 37
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 5bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 38
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 760
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 38
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 1aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 39
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1459
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 39
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 18aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 40
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 893
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 40
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 17bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 41
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 825
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 41
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 14aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 42
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1071
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 42
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 2aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 43
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 2557
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 43
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 9aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 44
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 1624
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 44
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 4bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 45
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 1589
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 45
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 11aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 46
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1192
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 46
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 20aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 47
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1757
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 47
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 12bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 48
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 925
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 48
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 6aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 49
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 926
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 49
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 17aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 50
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 857
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 50
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 1bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 51
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 926
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 51
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 4aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 52
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 924
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 52
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 8bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 53
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 1059
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 53
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 2aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 54
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 760
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 54
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 7aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 55
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 843
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 55
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 14bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 56
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 776
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 56
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 9bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 57
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 691
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 57
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 13aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 58
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1126
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 58
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 20bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 59
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 1059
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 59
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 7aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 60
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 991
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 60
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 11bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 61
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 824
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 61
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 10aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 62
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 742
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 62
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 19bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 63
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1124
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 63
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 6aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 64
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 942
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 64
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 18aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 65
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1058
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 65
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 6bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 66
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 892
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 66
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 7bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 67
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 724
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 67
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 4aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 68
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 926
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 68
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 8bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 69
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 960
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 69
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 7bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 70
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1224
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 70
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 15aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 71
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 858
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 71
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 5bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 72
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 859
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 72
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 8bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 73
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 926
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 73
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 4aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 74
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 859
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 74
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 9bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 75
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 793
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 75
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 16aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 76
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 2223
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 76
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 10bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 77
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 860
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 77
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 13bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 78
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1058
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 78
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 15aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 79
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 793
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 79
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 3aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 80
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 876
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 80
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 11bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 81
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 1342
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 81
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 20aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 82
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1626
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 82
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 2aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 83
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 893
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 83
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 1bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 84
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1192
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 84
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 3aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 85
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 827
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 85
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 4bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 86
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1192
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 86
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 19aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 87
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 858
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 87
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 13aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 88
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 957
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 88
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 8aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 89
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1292
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 89
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 13bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 90
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 840
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 90
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 1aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 91
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 659
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 91
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 14bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 92
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1457
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 92
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 15aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 93
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 959
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 93
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 7bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 94
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 660
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 94
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 10aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 95
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 893
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 95
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 13bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 96
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 992
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 96
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 4bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 97
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 859
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 97
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 18aL.BMP
+Tilt: L
+ErrorCount: 1
+List1: 98
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 861
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 98
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 16aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 99
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 977
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 99
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 17aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 100
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 976
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 100
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 20bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 101
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 758
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 101
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 13aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 102
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 926
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 102
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 14bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 103
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 758
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 103
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 9aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 104
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 860
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 104
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 11bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 105
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 692
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 105
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 14aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 106
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 527
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 106
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 12bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 107
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 893
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 107
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 2bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 108
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 1692
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 108
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 19aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 109
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 1009
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 109
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 2bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 110
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 625
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 110
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 5aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 111
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 925
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 111
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 14bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 112
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1659
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 112
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 17aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 113
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 1093
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 113
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 2bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 114
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 707
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 114
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 11aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 115
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 841
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 115
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 8aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 116
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1226
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 116
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 13bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 117
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 994
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 117
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 3bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 118
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 1159
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 118
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 1aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 119
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 924
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 119
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 3aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 120
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 724
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 120
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 5aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 121
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 1027
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 121
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 11bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 122
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 2075
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 122
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 20aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 123
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 893
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 123
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 15bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 124
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 793
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 124
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 14aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 125
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 693
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 125
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 19bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 126
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 989
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 126
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 18bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 127
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 957
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 127
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 11aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 128
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 727
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 128
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 19aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 129
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1359
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 129
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 12bL.BMP
+Tilt: L
+ErrorCount: 1
+List1: 130
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 960
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 130
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 7aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 131
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 926
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 131
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 12aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 132
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1759
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 132
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 19bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 133
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 793
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 133
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 6bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 134
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1523
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 134
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 18aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 135
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 2092
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 135
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 17bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 136
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 828
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 136
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 16bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 137
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 808
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 137
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 10aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 138
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 909
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 138
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 20bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 139
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1326
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 139
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 7bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 140
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 893
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 140
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 6bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 141
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 926
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 141
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 8aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 142
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 860
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 142
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 9bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 143
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1026
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 143
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 3bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 144
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 860
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 144
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 12aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 145
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 3687
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 145
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 1aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 146
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 893
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 146
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 15bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 147
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 726
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 147
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 16bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 148
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1243
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 148
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 6bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 149
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 837
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 149
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 5aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 150
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 825
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 150
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 12aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 151
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 925
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 151
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 18bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 152
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 2290
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 152
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 3aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 153
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1058
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 153
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 17bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 154
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 859
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 154
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 16bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 155
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 1659
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 155
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 9aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 156
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 560
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 156
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 18bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 157
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 1142
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 157
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 11aR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 158
+StimulusContent: Smoking
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 1542
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 158
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 16aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 159
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 893
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 159
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 18bL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 160
+StimulusContent: Neutral
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 693
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 160
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 19bR.BMP
+Tilt: R
+ErrorCount: 0
+List1: 1
+StimulusContent: Neutral
+CorrectResponse: Push
+Running: LijstUpDown
+RT: 759
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 161
+*** LogFrame End ***
+Level: 3
+*** LogFrame Start ***
+LijstUpDown: 1
+Procedure: UpDownProc
+Stimulus: 5aL.BMP
+Tilt: L
+ErrorCount: 0
+List1: 2
+StimulusContent: Smoking
+CorrectResponse: Pull
+Running: LijstUpDown
+RT: 593
+ACC: 1
+LijstUpDown.Cycle: 1
+LijstUpDown.Sample: 162
+*** LogFrame End ***
+Level: 2
+*** LogFrame Start ***
+Procedure: Lijst
+LijstSelectie: 1
+StimLijst: List1
+Running: LijstSelectie
+LijstSelectie.Cycle: 1
+LijstSelectie.Sample: 1
+*** LogFrame End ***
+Level: 1
+*** LogFrame Start ***
+Experiment: AAT smoking v 1.3
+SessionDate: 07-03-2019
+SessionTime: 14:59:30
+SessionStartDateTimeUtc: 7/3/2019 6:59:30 PM
+Subject: 02
+Session: 1
+Version: 1
+DataFile.Basename: AAT smoking v 1.3-02-1
+RandomSeed: -2011501102
+Group: 1
+Display.RefreshRate: 60.059
+Clock.Information: <?xml version="1.0"?>\n<Clock xmlns:dt="urn:schemas-microsoft-com:datatypes"><Description dt:dt="string">E-Prime Primary Realtime Clock</Description><StartTime><Timestamp dt:dt="int">0</Timestamp><DateUtc dt:dt="string">2019-07-03T18:59:29Z</DateUtc></StartTime><FrequencyChanges><FrequencyChange><Frequency dt:dt="r8">2533200</Frequency><Timestamp dt:dt="r8">470434714950</Timestamp><Current dt:dt="r8">0</Current><DateUtc dt:dt="string">2019-07-03T18:59:29Z</DateUtc></FrequencyChange></FrequencyChanges></Clock>\n
+StudioVersion: 2.0.10.252
+RuntimeVersion: 2.0.10.356
+RuntimeVersionExpected: 2.0.10.356
+RuntimeCapabilities: Professional
+ExperimentVersion: 1.0.0.24
+*** LogFrame End ***
+
